@@ -256,12 +256,19 @@ npm run prisma:seed
 
 ---
 
-## 📸 Screenshots (Add Yours Here)
+## 📸 Screenshots
 
-- Home Page
-- Compare Page
-- Predictor Page
-- College Detail
+### 🏠 Home Page
+![Home](./screenshots/home.png)
+
+### ⚖️ Compare Colleges
+![Compare](./screenshots/compare.png)
+
+### 🎯 Predictor
+![Predictor](./screenshots/predictor.png)
+
+### 📊 College Detail
+![Detail](./screenshots/detail.png)
 
 ---
 
@@ -290,10 +297,4 @@ npm run prisma:seed
 **Vishuddhi Jain**
 
 - GitHub: https://github.com/Vishuddhijain
-- LinkedIn: https://www.linkedin.com/in/vishuddhi-jain-237439338/
-
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to contribute!
