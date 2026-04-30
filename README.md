@@ -265,7 +265,7 @@ npm run prisma:seed
 ![Compare](./screenshots/compare.png)
 
 ### 🎯 Predictor
-![Predictor](./screenshots/predictor.png)
+![Predictor](./screenshots/predict.png)
 
 ### 📊 College Detail
 ![Detail](./screenshots/detail.png)
